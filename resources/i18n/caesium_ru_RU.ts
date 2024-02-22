@@ -228,7 +228,7 @@ Saved: %4 (%5%)</source>
     <message>
         <location filename="../../views/MainWindow.ui" line="676"/>
         <source>Maximum output size</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальный выходной размер</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="608"/>
@@ -238,7 +238,7 @@ Saved: %4 (%5%)</source>
     <message>
         <location filename="../../views/MainWindow.ui" line="239"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="../../views/MainWindow.ui" line="575"/>
